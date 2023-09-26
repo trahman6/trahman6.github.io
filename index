@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        td {
+            border: 1px solid black;
+            padding: 2px;
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <tr>
+            <td>Name</td>
+            <td>Taseen Rahman</td>
+        </tr>
+        <tr>
+            <td>Introduction</td>
+            <td>Hello, I am a junior in the BS IT program. I enjoy coding Python and R.</td>
+        </tr>
+        <tr>
+            <td>Hobbies</td>
+            <td>	Programming, making websites. </td>
+        </tr>
+    </table>
+</body>
+</html>

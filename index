@@ -17,15 +17,15 @@
     <table>
         <tr>
             <td>Name</td>
-            <td>Hassan Raja</td>
+            <td>Taseen Rahman</td>
         </tr>
         <tr>
             <td>Introduction</td>
-            <td>Hello, I am a junior in the BS IT program. I enjoy coding in Python, SQL, R, JS, HTML/CSS</td>
+            <td>Hello, I am a junior in the BS IT program. I enjoy coding Python and R. </td>
         </tr>
         <tr>
             <td>Hobbies</td>
-            <td>Gaming (mostly Valorant), Lifting, Wrestling, Singing</td>
+            <td>Programming, making websites. </td>
         </tr>
     </table>
 </body>
